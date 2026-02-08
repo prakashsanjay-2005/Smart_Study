@@ -1,0 +1,7 @@
+{
+  "name": "Smart Study",
+  "description": "A multimodal study dashboard that synchronizes audio, visuals, and syllabus data to create dynamic timelines and AI-powered study aids using Gemini 2.5 and 3 models.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
