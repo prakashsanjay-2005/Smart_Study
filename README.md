@@ -12,6 +12,7 @@ View your app in AI Studio: https://ai.studio/apps/drive/1cvpsr3ADrYEMYV949YKk4T
 
 **Prerequisites:**  Node.js
 
+youtube demo link:https://www.youtube.com/watch?v=UXVqW7j-6IE
 
 1. Install dependencies:
    `npm install`
